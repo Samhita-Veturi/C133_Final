@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+h3{
+    padding: 20px;
+    background-color: lavender;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}

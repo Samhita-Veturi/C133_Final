@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+canvas{
+    border: 3px dashed black;
+    margin: 20px;
+    margin-top: 100px;
+    box-shadow: 20px 20px 20px;
+}
+#Back{
+    margin: 20px;
+}
+#Status, #Objects{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
